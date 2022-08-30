@@ -63,10 +63,18 @@ Para observar el resutlado de este flow, abre un navegador y dirígete a localho
 
 Enviar por MQTT un mensaje que contenga un JSON con las variables ID, temp y hum
     
-    
-# Resultados
-A continuación puede verse una vista previa del resultado de este flow.![Captura de pantalla del flow 3](https://user-images.githubusercontent.com/111370977/186721102-13084e27-2c88-47a7-8bd1-ff883d8942c3.png)
+Notas
+Este Flow se suscribe al tema codigoIoT/Mor/mqtt/flow4
 
+El mensaje mqtt usado para probar este flow es mosquitto_pub -h localhost -t codigoIoT/Mor/mqtt/flow4 -m '{"ID":"Ian Arcos","temp":21,"hum":51}'
+
+Para que la gráfica historica muestre información, deben enviarse al menos 2 puntos
+
+# Resultados
+A continuación puedes ver los nodos del flow.
+![Captura de pantalla del flow 3](https://user-images.githubusercontent.com/111370977/186721102-13084e27-2c88-47a7-8bd1-ff883d8942c3.png)
+
+A continuación puede ver el tablero resultante.
 
 ![Captura de pantalla del flow 3-2](https://user-images.githubusercontent.com/111370977/186721118-68b46f35-3a79-4c8b-822d-315544407e0c.png)
 
