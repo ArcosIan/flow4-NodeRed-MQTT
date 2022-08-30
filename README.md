@@ -16,7 +16,7 @@ Para realizar este flow necesitas lo siguiente
         
    [  Nodos Dashboard](https://flows.nodered.org/node/node-red-dashboard)
    
-   [  Mosquitto]([https://flows.nodered.org/node/node-red-dashboard](https://mosquitto.org/))
+  [  Mosquitto]([https://flows.nodered.org/node/node-red-dashboard](https://mosquitto.org/)
       
 # Material de referencia
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
@@ -29,7 +29,7 @@ En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigo
    
    [Introducción a NodeRed](https://edu.codigoiot.com/enrol/index.php?id=278)
    
-   [Introduccion a Mosquitto]([https://edu.codigoiot.com/enrol/index.php?id=278](https://edu.codigoiot.com/course/view.php?id=851))
+   [Introduccion a Mosquitto]([https://edu.codigoiot.com/enrol/index.php?id=278](https://edu.codigoiot.com/course/view.php?id=851)
 
 
 # Instrucciones
@@ -71,12 +71,14 @@ El mensaje mqtt usado para probar este flow es mosquitto_pub -h localhost -t cod
 Para que la gráfica historica muestre información, deben enviarse al menos 2 puntos
 
 # Resultados
-A continuación puedes ver los nodos del flow.
-![Captura de pantalla del flow 3](https://user-images.githubusercontent.com/111370977/186721102-13084e27-2c88-47a7-8bd1-ff883d8942c3.png)
+A continuación puedes ver los nodos del flow.![Captura de pantalla del flow 4](https://user-images.githubusercontent.com/111370977/187478947-5ea500bb-c476-49fa-8c6c-59f59e0fe633.png)
+
+
 
 A continuación puede ver el tablero resultante.
+![Captura de pantalla del flow 4-2](https://user-images.githubusercontent.com/111370977/187479001-9ca96744-24d3-4e3f-ab7a-539e1cfde280.png)
 
-![Captura de pantalla del flow 3-2](https://user-images.githubusercontent.com/111370977/186721118-68b46f35-3a79-4c8b-822d-315544407e0c.png)
+
 
 
 
