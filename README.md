@@ -90,7 +90,11 @@ A continuación puede ver el tablero resultante.
 
 
 
-https://user-images.githubusercontent.com/111370977/186721904-98e87cfc-53ed-4a11-9480-d6bc4d8f8ff4.mp4
+
+
+https://user-images.githubusercontent.com/111370977/187479823-bf3b6f6d-17f8-4574-be08-80c90448e83b.mp4
+
+
 
 
 
